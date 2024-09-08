@@ -16,5 +16,7 @@ The piping to the file is not included in the reference command.
 ## PDF File Reference
 | File | Description |
 | :--: | :---------- |
-| [dell-perc-h310-spec-sheet.pdf](PDFs/dell-perc-h310-spec-sheet.pdf) | This is the RAID car  d Spec sheet |
-| [MegaCLI-user_guide.pdf](PDFs/MegaCLI-user_guide.pdf) | The command megacli user guide |
+| [dell-perc-h310-spec-sheet.pdf](PDFs/dell-perc-h310-spec-sheet.pdf) | This is the RAID card Spec sheet. |
+| [MegaCLI-user_guide.pdf](PDFs/MegaCLI-user_guide.pdf) | The command megacli user guide. |
+| [MegaRAID_SAS_SW_UserGd.pdf](PDFs/MegaRAID_SAS_SW_UserGd.pdf) | The MegaCLI command line reference doc. |
+| [StorCLI-Reference_Manual.pdf](PDFs/StorCLI-Reference_Manual.pdf) | The StorCLI command line reference doc. |
