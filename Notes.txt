@@ -4,4 +4,23 @@ Created on: Sun Sep  8 12:53:31 PM EDT 2024
 RAID Card:
   PCIe Slot: 03:00.0
   Device Name: Broadcom / LSI MegaRAID SAS 2008 [Falcon]
+
+
+  Drive Layout:
+
+┌───────────────────┬─────────┬─────────┬─────────┐ 
+│ xxxxxxxxxxxxxxxxx │ drive_2 │ drive_4 │ drive_6 │
+├─────────┬─────────┼─────────┼─────────┼─────────│
+│ drive_0 │ drive_1 │ drive_3 │  empty  │ drive_7 │
+└─────────┴─────────┴─────────┴─────────┴─────────┘
+
+Drive Info:
+Drive 0:
+  Slot Number: 
   
+Drive 1:
+Drive 2:
+Drive 3:
+Drive 4:
+Drive 6:
+Drive 7:
