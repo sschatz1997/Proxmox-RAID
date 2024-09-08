@@ -3,4 +3,5 @@ Created on: Sun Sep  8 12:53:31 PM EDT 2024
 
 RAID Card:
   PCIe Slot: 03:00.0
+  Device Name: Broadcom / LSI MegaRAID SAS 2008 [Falcon]
   
